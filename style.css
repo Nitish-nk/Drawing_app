@@ -145,21 +145,3 @@ section{
     height: 100%;
     border-radius: 7px;
 }
-
-
-
-@media screen and (max-width: 415px) {
-    .container{
-        display: block;
-        rotate: 180deg;
-        position: fixed;
-    }
-    
-    .tools-board{
-        width: 200px;
-        padding: 15px 22px 0;
-    }
-    .row{
-        rotate: 180deg;
-    }
-}
